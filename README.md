@@ -7,7 +7,7 @@ An Ethereum blockchain smart contract for [Love-Block](https://github.com/adoola
 
 ## How to run
 
-1. Clone the repo to your computer.
+1. Clone the repo to your computer and navigate to the project folder.
 
 2. Install testrpc blockchain simulator and truffle - solidity test&development framework.
 ```
