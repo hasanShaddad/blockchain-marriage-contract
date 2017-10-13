@@ -40,7 +40,7 @@ proposalNew(address1, address2) => bool
 ```
 
 ### Check for matching proposal
-Returns true if person2 also proposed to person2.
+Returns true if person2 also proposed to person1.
 ```
 proposalMatch(address1, address2) => bool
 ```
